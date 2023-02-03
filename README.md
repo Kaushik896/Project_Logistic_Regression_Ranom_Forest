@@ -1,1 +1,1 @@
-# Project_Logistic_Regression_Ranom_Forest
+# Project_Logistic_Regression_Random_Forest
